@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "name": "per.gracefulife.cordova.androbadge",
+    "cordova_name": "AndroBadge",
+    "description": "Android Badge Plugin",
+    "license": "Apache 2.0",
+    "keywords": [
+        "cordova",
+        "badge"
+    ],
+    "platforms": [
+        "android"
+    ],
+    "engines": []
+}
